@@ -14,8 +14,8 @@ sheet['B6'] = 'B(52%)'
 sheet['B7'] = 'B(99%)'
 
 wb.save('C:/Git/Montaigne/format.xlsx')
-email = "shankarnag151@gmail.com"   # For Login into the GTmetrix website
-passwd = "8861415188"
+email = "**********@gmail.com"   # For Login into the GTmetrix website
+passwd = "**********"
 
 dr = webdriver.Chrome()
 dr.maximize_window()
