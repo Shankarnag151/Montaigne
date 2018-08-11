@@ -23,7 +23,7 @@ To Run this project:-
 
 --> Open the command prompt terminal. And try the following steps:-
 
-1). Enter into the Downloaded Soacil-Task Folder..
+1). Enter into the Downloaded Socail-Task Folder..
 
 2). Activate the Virtual Environment. using this syntax:- env\scripts\activate.bat
 
